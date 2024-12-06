@@ -31,3 +31,7 @@ for line in txt:
         safe_counter += 1
 print(time.time() - start_time)
 print("Number of safe reports:", safe_counter)
+
+
+
+# test commit
